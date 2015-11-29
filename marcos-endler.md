@@ -1,4 +1,4 @@
-### bio ###
+### bio
 
-*** Name: *** Marcos Endler
-*** Color: *** Blue
+**Name:** Marcos Endler
+**Color:** Blue
